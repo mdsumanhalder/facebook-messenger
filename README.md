@@ -1,8 +1,12 @@
 ## Quickstart
 
-In the project directory, you can run:
+Install the packages :
 
-### `npm start`
+### `yarn install`
+
+And then to run the project:
+
+### `yarn start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
