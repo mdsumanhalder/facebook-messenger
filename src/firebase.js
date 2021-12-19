@@ -2,12 +2,12 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 const firebaseConfig = {
-  apiKey: "AIzaSyAVMYlVpRfll55SdiUEr2wVl8LvI5MK_E4",
-  authDomain: "facebook-messenger-495d4.firebaseapp.com",
-  projectId: "facebook-messenger-495d4",
-  storageBucket: "facebook-messenger-495d4.appspot.com",
-  messagingSenderId: "831427495103",
-  appId: "1:831427495103:web:79e83adef25e6fe184b20a",
+  apiKey: "AIzaSyCTxg9IvtJ7k8MkOn7b84GIE78EXD9w6f0",
+  authDomain: "facebook-messenger-4a2a6.firebaseapp.com",
+  projectId: "facebook-messenger-4a2a6",
+  storageBucket: "facebook-messenger-4a2a6.appspot.com",
+  messagingSenderId: "1027742286813",
+  appId: "1:1027742286813:web:c4684ba909085bcb9b2c34"
 };
 
 initializeApp(firebaseConfig);
